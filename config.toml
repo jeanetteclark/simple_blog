@@ -6,9 +6,8 @@ theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-canonifyURLs = true
-toc = false
-relativeurls = true
+canonifyURLs = true ## updated
+relativeurls = true ## updated
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -18,10 +17,10 @@ relativeurls = true
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/jeanetteclark"
+    url = "https://github.com/jeanetteclark" ## updated
 
 [params]
-    description = "My website is awesome."
+    description = "My website is awesome." ## updated
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -33,10 +32,10 @@ relativeurls = true
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    #favicon = "images/jellyfish.jpg"
+    favicon = "logo.jpg"
 
     [params.logo]
-    url = "jellyfish.jpg"
+    url = "jellyfish.jpg" ## updated
     width = 50
     height = 50
     alt = "Logo"
