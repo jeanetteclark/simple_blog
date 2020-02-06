@@ -1,7 +1,7 @@
-baseurl = "https://jeanetteclark.github.io/simple_blog"
-publishDir = "docs"
+baseurl = "https://jeanetteclark.github.io/simple_blog" ## updated
+publishDir = "docs" ## updated
 languageCode = "en-us"
-title = "Jeanette's Website"
+title = "Jeanette's Website" ## updated
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
