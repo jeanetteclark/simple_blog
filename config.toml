@@ -1,4 +1,4 @@
-baseurl = "simple_blog"
+baseurl = "https://jeanetteclark.github.io/simple_blog"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Jeanette's Website"
