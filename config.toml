@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "simple_blog"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Jeanette's Website"
