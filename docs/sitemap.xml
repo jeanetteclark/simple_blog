@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jeanetteclark.github.io/simple_blog/2020/02/06/first-post/</loc>
+    <loc>/2020/02/06/first-post/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeanetteclark.github.io/simple_blog/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeanetteclark.github.io/simple_blog/</loc>
+    <loc>/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeanetteclark.github.io/simple_blog/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeanetteclark.github.io/simple_blog/2019/01/01/lorem-ipsum/</loc>
+    <loc>/2019/01/01/lorem-ipsum/</loc>
     <lastmod>2019-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeanetteclark.github.io/simple_blog/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://jeanetteclark.github.io/simple_blog/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
